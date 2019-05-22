@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClickOnce.Selector", "ClickOnce.Selector\ClickOnce.Selector.csproj", "{CF2745DC-5F7F-4CC5-9CB8-B170DF008FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2745DC-5F7F-4CC5-9CB8-B170DF008FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2745DC-5F7F-4CC5-9CB8-B170DF008FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2745DC-5F7F-4CC5-9CB8-B170DF008FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2745DC-5F7F-4CC5-9CB8-B170DF008FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B75AE8D-A06D-4CE6-BCF0-4BAF39491A30}
+	EndGlobalSection
+EndGlobal

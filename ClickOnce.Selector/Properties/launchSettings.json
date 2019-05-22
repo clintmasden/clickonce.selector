@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClickOnce.Stable": {
+      "commandName": "Project",
+      "commandLineArgs": "b"
+    }
+  }
+}
